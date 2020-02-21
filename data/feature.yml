@@ -1,0 +1,22 @@
+enable  : true
+title   :   WHY CHOOSE US?
+subtitle: >
+    We partner with our clients to develop solutions that drive future growth.
+item    :
+  - icon  : ion-ios-flask-outline
+    title : People
+    description : >
+      Our cadre of tattooed, long haired, bearded, geeks and artists bring that special “something” to our clients. The core team has been working together for 10 years; this brings a level of experience and cohesion not often found.
+
+
+  - icon  : ion-ios-lightbulb-outline
+    title : Process
+    description : >
+      Align, Define, Perform, Refine . . . Align, Define, Perform, Refine . . . Align, Define, Perform, Refine. This heartbeat delivers successful projects and we’ve proven it.
+
+  - icon  : ion-ios-americanfootball-outline
+    title : Access
+    description : >
+      We encourage direct communication between your team and everyone on ours from the do-ers to decision makers. If we worked any closer you’d be making room for us in your office.
+
+  

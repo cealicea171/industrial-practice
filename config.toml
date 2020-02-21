@@ -1,0 +1,92 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Timer | Responsive Multipurpose Bootstrap Hugo Template"
+theme = "timer-hugo"
+
+# We Used Ionicons Icon font for Icon, for more details check this link - https://ionicons.com/
+
+# Navbar Menus
+[[menu.nav]]
+name    = "About"
+url     = "about"
+weight  = 2
+[[menu.nav]]
+name    = "Services"
+url     = "services"
+weight  = 3
+[[menu.nav]]
+name    = "Portfolio"
+url     = "Portfolio"
+weight  = 4
+[[menu.nav]]
+name    = "Passion"
+url     = "Passion"
+weight  = 5
+[[menu.nav]]
+name    = "Contact"
+url     = "contact"
+weight  = 6
+
+# Site Params
+[params]
+home = "Home"
+logo = "images/logoin.png"
+dateFormat = "6 January 2006"
+# Meta data
+description = "Airspace Hugo theme"
+author = "Themefisher"
+# Google Analitycs
+googleAnalitycsID = "Your ID"
+
+# Banner Section
+[params.banner]
+enable  = true
+bgImage = "images/indust.jpg"
+heading = "HOMETOWN HEROES"
+description = "Lessons from one of the industry pioneers."
+# button
+btn     = true
+btnText = "READ MORE"
+btnURL  = "https://themefisher.com/"
+
+# flip text
+[[params.banner.flipText]]
+title   = "DESIGNER"
+[[params.banner.flipText]]
+title   = "DEVELOPER"
+[[params.banner.flipText]]
+title   = "FATHER"
+
+# Homepage About Section
+[params.about]
+enable  = true
+title   = "WHAT WE DO"
+content = "As software consultants that partner with clients to create technology solutions from inception to launch; we stay aware of the entire product life cycle. Our clients have unique needs that are best served though long term relationships that allow us to proactively address their goals."
+image   = "images/about/about.jpg"
+
+# Call to Action
+[params.cta]
+enable  = true
+title   = "SO WHAT YOU THINK ?"
+content = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nobis,<br>possimus commodi, fugiat magnam temporibus vero magni recusandae? Dolore, maxime praesentium."
+btnText = "Contact with me"
+btnURL  = "/contact"
+
+# Portfolio Section On Homepage
+[params.portfolio]
+enable  = true
+title   = "READ.."
+subtitle= "GOOD OLD FASHIONED TECHNOLOGISTS IS WHAT WE’RE AFTER DAMMIT. CURIOUS, RESOURCEFUL, TINKERER’S - THE KIND WHO AREN’T AFRAID TO ASK A QUESTION, USE A SOLDERING IRON, OR ADMIT THAT THEY ARE WRONG...WHEN THE OCCASION CALLS FOR IT."
+
+# social icon
+[[params.socialIcon]]
+icon = "ion-social-facebook"
+url = "#"
+
+[[params.socialIcon]]
+icon = "ion-social-instagram"
+url = "#"
+
+[[params.socialIcon]]
+icon = "ion-social-linkedin"
+url = "#"
