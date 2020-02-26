@@ -1,14 +1,12 @@
 enable  : true
-title   : OUR HAPPY CLINETS
-subtitle: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Labore, error.
+title   : WE'VE BEEN TRUSTED BY 
+subtitle: 
 clientsLogo:
-  - image : images/clients/logo-1.jpg
-  - image : images/clients/logo-2.jpg
-  - image : images/clients/logo-3.jpg
-  - image : images/clients/logo-4.jpg
-  - image : images/clients/logo-5.jpg
-  - image : images/clients/logo-1.jpg
-  - image : images/clients/logo-2.jpg
-  - image : images/clients/logo-3.jpg
-  - image : images/clients/logo-4.jpg
-  - image : images/clients/logo-5.jpg
+  - image : images/clients/in-1.jpg
+  - image : images/clients/in-2.jpg
+  - image : images/clients/in-3.jpg
+  - image : images/clients/in-4.jpg
+  - image : images/clients/in-5.jpg
+  - image : images/clients/in-6.jpg
+
+  

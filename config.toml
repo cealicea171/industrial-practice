@@ -11,19 +11,19 @@ name    = "About"
 url     = "about"
 weight  = 2
 [[menu.nav]]
-name    = "Services"
-url     = "services"
+name    = "service"
+url     = "service"
 weight  = 3
 [[menu.nav]]
-name    = "Portfolio"
-url     = "Portfolio"
+name    = "gallery"
+url     = "gallery"
 weight  = 4
 [[menu.nav]]
-name    = "Passion"
-url     = "Passion"
+name    = "blog"
+url     = "blog"
 weight  = 5
 [[menu.nav]]
-name    = "Contact"
+name    = "contact"
 url     = "contact"
 weight  = 6
 
