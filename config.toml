@@ -62,26 +62,26 @@ title   = "FATHER"
 enable  = true
 title   = "WHAT WE DO"
 content = "As software consultants that partner with clients to create technology solutions from inception to launch; we stay aware of the entire product life cycle. Our clients have unique needs that are best served though long term relationships that allow us to proactively address their goals."
-image   = "images/about/about.jpg"
+
 
 # Call to Action
 [params.cta]
 enable  = true
-title   = "SO WHAT YOU THINK ?"
-content = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nobis,<br>possimus commodi, fugiat magnam temporibus vero magni recusandae? Dolore, maxime praesentium."
-btnText = "Contact with me"
-btnURL  = "/contact"
+title   = "SUBSCRIBE TO OUR NEWSLETTER"
+content = "We'd like to think we have a good idea from time to time. Leave us your email to enjoy these pearls of wisdom."
+btnText = "SEND EMAIL"
+
 
 # Portfolio Section On Homepage
 [params.portfolio]
 enable  = true
-title   = "READ.."
 subtitle= "GOOD OLD FASHIONED TECHNOLOGISTS IS WHAT WE’RE AFTER DAMMIT. CURIOUS, RESOURCEFUL, TINKERER’S - THE KIND WHO AREN’T AFRAID TO ASK A QUESTION, USE A SOLDERING IRON, OR ADMIT THAT THEY ARE WRONG...WHEN THE OCCASION CALLS FOR IT."
+image = "images/portfolio/serverfan.jpg"
 
 # social icon
 [[params.socialIcon]]
 icon = "ion-social-facebook"
-url = "#"
+url = "https://www.facebook.com/industrialres/"
 
 [[params.socialIcon]]
 icon = "ion-social-instagram"
